@@ -10,8 +10,8 @@
 
 ## Verse 2
 
-| Em7 | F#m7 Bm7 | GM7 F#m7 | Em7 F#m6 |
-| Em7 | F#m7 Bm7 | GM7 F#m7 | Em7 A/D |
+| Em7 | F#m7 Bm7 | GM7 F#m7 | Em7 F#m6 |  
+| Em7 | F#m7 Bm7 | GM7 F#m7 | Em7 A/D |  
 | CM7 | E F# |
 
 
